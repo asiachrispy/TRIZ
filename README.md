@@ -17,5 +17,9 @@
 [北京亿维讯同创科技有限公司](http://www.iwint.com.cn/Technical_Articles.aspx?nid=5&pid=38&tid=132)  
 [TRIZ技术创新方法](http://www.triz.gov.cn/index.php?s=/home/index/index.html)  
 
+
+## 创新案例
+[基于TRIZ理论的钥匙提示功能设计](http://www.triz.gov.cn/index.php?s=/home/index/newsdetail/id/989.html)
+
 ## changelog
 20190630 黄忠 newadd
