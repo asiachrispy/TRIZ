@@ -7,7 +7,7 @@
 [创新算法 (豆瓣)](https://book.douban.com/subject/3354596/)  
 [TRIZ进阶及实战 (豆瓣)](https://book.douban.com/subject/26700465/)  
 
-[微创新 (豆瓣)](https://book.douban.com/subject/25854698/) 
+[微创新 (豆瓣)](https://book.douban.com/subject/25854698/)   
 [创造进化论 (豆瓣)](https://book.douban.com/subject/26796565/)  
 
 [TRIZ:打开创新之门的金钥匙Ⅰ (豆瓣)](https://book.douban.com/subject/26696417/)  
