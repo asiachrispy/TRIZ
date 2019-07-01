@@ -14,7 +14,8 @@
 [日常生活中的发明原理 (豆瓣)](https://book.douban.com/subject/30237394/)  
 
 ## 企业服务  
-[北京亿维讯同创科技有限公司](http://www.iwint.com.cn/Technical_Articles.aspx?nid=5&pid=38&tid=132)
+[北京亿维讯同创科技有限公司](http://www.iwint.com.cn/Technical_Articles.aspx?nid=5&pid=38&tid=132)  
+[TRIZ技术创新方法](http://www.triz.gov.cn/index.php?s=/home/index/index.html)  
 
 ## changelog
 20190630 黄忠 newadd
