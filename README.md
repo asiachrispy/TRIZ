@@ -16,7 +16,9 @@
 ## 企业服务  
 [北京亿维讯同创科技有限公司](http://www.iwint.com.cn/Technical_Articles.aspx?nid=5&pid=38&tid=132)  
 [TRIZ技术创新方法](http://www.triz.gov.cn/index.php?s=/home/index/index.html)  
-
+[国际TRIZ学会-ITRIZS-International TRIZ Society](http://www.itrizs.com/)  
+[TRIZ Talk 创新视频课程](http://www.fasinno.com/triztalk.html)  
+[TRIZ技术创新方法](http://www.triz.gov.cn/)  
 
 ## 创新案例
 [基于TRIZ理论的钥匙提示功能设计](http://www.triz.gov.cn/index.php?s=/home/index/newsdetail/id/989.html)
